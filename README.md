@@ -10,7 +10,8 @@ From shimmering wings to silent flight, butterflies have sparked innovation acro
 
 - [Color and Light](#-color-and-light) – Structural coloration, iridescence, photonic crystals  
 - [Materials and Surfaces](#-materials-and-surfaces) – Self-cleaning, hydrophobicity, nanostructures  
-- [Flight Mechanics](#-flight-mechanics) – Aerodynamics, flapping wing dynamics, MAV design  
+- [Flight Mechanics](#-flight-mechanics) – Aerodynamics, flapping wing dynamics, MAV design
+- [Locomotion and Soft-Bodied Movement](#-locomotion-and-soft-bodied-movement) – Caterpillar motion, elasticity, adhesion  
 - [Camouflage and Perception](#-camouflage-and-perception) – Mimicry, adaptive camouflage, predator evasion  
 - [Bioinspired Sensing](#-bioinspired-sensing) – Polarized light detection, compound eye tech  
 - [Thermal Control and Wing Design](#-thermal-control-and-wing-design) – Heat absorption and reflection via wing structure  
@@ -57,8 +58,18 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
   - Srygley, R. B., & Thomas, A. L. R. (2002). [Unconventional lift-generating mechanisms in free-flying butterflies](https://www.nature.com/articles/nature01223). *Nature*, 420, 660–664.
 
 ---
+## 🐛 Locomotion and Soft-Bodied Movement
 
-## 🌲 Camouflage and Perception
+### 🤸 Elasticity vs. Adhesion in Caterpillar Locomotion
+- **Summary:** This study explores how caterpillars move using a balance of body elasticity and adhesion to surfaces — offering insights for soft robotics and adaptive crawling systems.
+- **Applications:** Bioinspired soft robots, wearable tech, terrain-adaptive locomotion.
+- **Reference:**
+  - Argenziano, M., Zingales, M., Cutolo, A., Bologna, E., & Fraldi, M. (2025). [Competition between elasticity and adhesion in caterpillar locomotion](https://doi.org/10.1098/rsif.2024.0703). *Journal of the Royal Society Interface*, Published 23 April 2025.
+
+---
+
+
+## 🫥 Camouflage and Perception
 
 ### Mimicry and Adaptive Camouflage
 - **Summary:** Some butterflies mimic toxic species or use disruptive patterns to avoid detection by predators.
