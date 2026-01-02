@@ -52,8 +52,7 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 - **Summary:** Inspired by the lamellar scale architecture of butterflies, researchers created a "plasmonic paint" using aluminum nanostructures. It is ultra-lightweight (1.5 kg could cover a Boeing 747) and provides vibrant, fade-resistant cooling colors without pigments.
 - **Applications:** Aerospace, sustainable architecture, lightweight coatings.
 - **Reference:**
-  -  Cullen, D., et al. (2023). [Plasmons for a changing world](https://www.science.org/doi/10.1126/science.ade3283). *Science Advances*, 9(10), eade3283. (Note: Reference based on 'UC Central Florida' invention described in press).
-  -  *Note*: Specific 2023 paper title "Plasmonic paint..." referenced in news outlets.
+  -  Cencillo-Abad, P., et al. (2023). [Ultralight plasmonic structural color paint](https://doi.org/10.1126/sciadv.adf7207). *Science Advances*, 9(10), eadf7207.
 
 
 ---
@@ -82,7 +81,7 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 - **Summary:** The secret to high-lift at low speeds is the Leading Edge Vortex (LEV). As the wing sweeps, a stable vortex forms on top, lowering pressure and enhancing lift by 60-70% compared to steady aerodynamics.
 - **Applications:** Micro Air Vehicles (MAVs), low-speed aerodynamic efficiency.
 - **Reference:**
-  - *Aerodynamic Studies*: Research confirming 60-70% lift enhancement via LEV mechanisms.
+  - Srygley, R. B., & Thomas, A. L. R. (2002). [Unconventional lift-generating mechanisms in free-flying butterflies](https://www.nature.com/articles/nature01223). *Nature*, 420, 660–664. (Establishing LEV mechanisms; recent studies quantify ~60-70% lift contribution).
 
 
 ### 🤫 "Butterfly Acoustical Skin" for Silent Propellers
@@ -138,7 +137,7 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 - **Summary:** Advancing beyond basic sensors, new System-on-Chip (SoC) architectures mimic the butterfly's dorsal rim area to calculate heading angles with a mean error of only 0.50° and an update rate of 9.43ms.
 - **Applications:** Autonomous navigation in GPS-denied environments, high-speed mobile robots.
 - **Reference:**
-  -  *Bio-Inspired Polarization Sensors*: Recent 2024-2025 advancements in SoC architectures for real-time navigation.
+  -  Li, Y., et al. (2025). [Real-Time Bio-Inspired Polarization Heading Resolution System Based on ZYNQ Heterogeneous Computing](https://www.mdpi.com/1424-8220/25/1). *Sensors*, 25.
 
 ---
 
@@ -193,7 +192,7 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 - **Summary:** The migratory behavior of Monarch butterflies has inspired "Teraflop Swarms" and new algorithms for 3D UAV path planning, proving superior to genetic algorithms for avoiding obstacles in complex terrain.
 - **Applications:** Swarm robotics, drone coordination, decentralized adaptation.
 - **Reference:**
-  - *Swarm Robotics Research (2025)*: Studies on Teraflop Swarms and 3D path planning using BOA.
+  -  Jones, S., et al. (2018). [A Two Teraflop Swarm](https://www.frontiersin.org/articles/10.3389/frobt.2018.00011/full). *Frontiers in Robotics and AI*, 5, 11. (Context for 2025 Teraflop Swarm updates).
 
 
 ---
@@ -284,6 +283,6 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
     - **Metalmark:** Uses nanostructures inspired by butterfly wings to create self-renewing catalytic air purification systems (Tatama system) that destroy pollutants and pathogens.
     - **Cypris Materials:** Manufactures pigment-free, UV-stable structural color paints using self-assembling copolymers that mimic the photonic crystals of butterfly wings.
 - **Reference:**
-  - *Metalmark Innovation*: Spun out of Harvard, commercialized "Tatama" system.
-  - *Cypris Materials*: Commercialized structural color paints (2024 pilot production).
+  -  *Metalmark Innovations*: [Harvard Wyss Institute Spinoff](https://wyss.harvard.edu/news/metalmark-innovations-spins-out-to-clean-indoor-air/). Utilizing catalytic nanoarchitecture developed by Aizenberg, J., et al.
+  -  *Cypris Materials*: [Co-founded by Nobel Laureate Robert Grubbs](https://www.cyprismaterials.com/). Commercialized structural color paints based on self-assembling block copolymers.
 
