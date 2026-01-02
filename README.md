@@ -86,12 +86,14 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 
 ## 👁️ Bioinspired Sensing
 
+
+
 ### ⚡ Light-Activated Hydrogen Gas Sensors
 - **Summary:** Inspired by the bumpy microstructures of butterfly wings, this sensor uses photonic crystals to detect hydrogen gas at room temperature with high sensitivity and selectivity.
 - **Applications:** Hydrogen leak detection, industrial safety, non-invasive medical diagnostics.
 - **Reference:**
-  - Sabri, Y. M., et al. (2020). [Light-Activated, Room Temperature Detection of Hydrogen by Titanium Dioxide Photonic Crystals](https://pubs.acs.org/doi/10.1021/acssensors.0c01475). *ACS Sensors*, 5(12), 3908–3916.
-  - Potyrailo, R. A., et al. (2013). [Morpho butterfly wing scales demonstrate highly selective vapour response](https://www.nature.com/articles/nphoton.2013.222). *Nature Photonics*, 7, 668–673.
+  - Sabri, Y. M., et al. (2020). [Low-temperature hydrogen sensor: Enhanced performance enabled through photoactive Pd-decorated TiO2 colloidal crystals](https://pubs.acs.org/doi/10.1021/acssensors.0c01475). *ACS Sensors*, 5(12), 3902–3914.
+  - Potyrailo, R. A., et al. (2007). [Morpho butterfly wing scales demonstrate highly selective vapour response](https://www.nature.com/articles/nphoton.2007.2). *Nature Photonics*, 1, 123–128.
 
 ---
 
@@ -160,7 +162,7 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 
 ## 🏥 Medical Applications and Implants
 
-### �️ Angle-Independent Glaucoma Sensors
+### 👁️ Angle-Independent Glaucoma Sensors
 - **Summary:** Inspired by the nanopillars on the transparent wings of the Longtail Glasswing butterfly (*Greta oto*), researchers created an eye implant that provides accurate pressure readings from any angle, solving a major issue with previous devices.
 - **Applications:** Glaucoma monitoring implants, intraocular pressure sensors.
 - **Reference:**
@@ -170,7 +172,7 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 - **Summary:** Cameras mimicking the visual system of the Morpho butterfly can simultaneously detect standard color and near-infrared fluorescent signals, allowing surgeons to see cancerous cells more clearly during operations.
 - **Applications:** Image-guided cancer surgery, precision diagnostics.
 - **Reference:**
-  -  Garcia, M., et al. (2018). [Bio-inspired color-near infrared imaging multispectral sensors](https://doi.org/10.1364/OE.26.009098). *Optics Express*, 26(7), 9098-9116.
+  -  Garcia, M., et al. (2018). [A bio-inspired imager improves sensitivity for near-infrared fluorescence image-guided surgery](https://doi.org/10.1364/OPTICA.5.000413). *Optica*, 5(4), 413–422.
 
 ---
 
@@ -180,18 +182,17 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 - **Summary:** The iridescent colors of the Morpho butterfly, caused by nanostructures rather than pigments, are being replicated to create security features that are nearly impossible to photocopy or forge.
 - **Applications:** Banknotes, passports, secure product packaging.
 - **Reference:**
-  -  Kumar, K., et al. (2015). [Printing colour at the optical diffraction limit](https://www.nature.com/articles/nnano.2012.128). *Nature Nanotechnology*, 7, 557–561.
-  -  Toader, B., et al. (2017). [Graphene-based replications of butterfly wing nanostructures](https://iopscience.iop.org/article/10.1088/2053-1583/aa528e). *2D Materials*, 4(1), 015041.
+  -  Kumar, K., et al. (2012). [Printing colour at the optical diffraction limit](https://www.nature.com/articles/nnano.2012.128). *Nature Nanotechnology*, 7, 557–561.
 
 ---
 
-## �🔥 Fire-Resistant Materials
+## 🔥 Fire-Resistant Materials
 
 ### 🛡️ Chitin-Derived Fire Retardants
 - **Summary:** Chitin, the primary component of butterfly wings and insect exoskeletons, is being transformed into eco-friendly, fire-resistant coatings and materials that form a protective char layer when exposed to heat.
 - **Applications:** Fire-resistant fabrics, foams, and construction materials.
 - **Reference:**
-  -  Hamdani, S. S., et al. (2020). [Chitosan-based flame retardants: A review](https://doi.org/10.1016/j.polymdegradstab.2020.109156). *Polymer Degradation and Stability*, 182, 109156.
+  -  Malucelli, G., et al. (2020). [Flame-Retardant Systems Based on Chitosan and Its Derivatives: State of the Art and Perspectives](https://doi.org/10.3390/molecules25184046). *Molecules*, 25(18), 4046.
 
 
 
