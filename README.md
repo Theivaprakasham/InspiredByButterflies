@@ -286,3 +286,24 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
   -  *Metalmark Innovations*: [Harvard Wyss Institute Spinoff](https://wyss.harvard.edu/news/metalmark-innovations-spins-out-to-clean-indoor-air/). Utilizing catalytic nanoarchitecture developed by Aizenberg, J., et al.
   -  *Cypris Materials*: [Co-founded by Nobel Laureate Robert Grubbs](https://www.cyprismaterials.com/). Commercialized structural color paints based on self-assembling block copolymers.
 
+---
+
+## 📝 How to Cite
+
+If you use this repository in your research or project, please cite it as follows:
+
+**APA:**
+Theivaprakasham. (2026). *Inspired By Butterflies: A curated collection of butterfly-inspired innovations*. GitHub. https://github.com/Theivaprakasham/InspiredByButterflies
+
+**BibTeX:**
+```bibtex
+@misc{InspiredByButterflies2026,
+  author = {Theivaprakasham},
+  title = {Inspired By Butterflies: A curated collection of butterfly-inspired innovations},
+  year = {2026},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/Theivaprakasham/InspiredByButterflies}}
+}
+```
+
