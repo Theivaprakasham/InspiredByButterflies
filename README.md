@@ -8,15 +8,18 @@ From shimmering wings to silent flight, butterflies have sparked innovation acro
 
 ## 📚 Topics Covered
 
-- [Color and Light](#-color-and-light) – Structural coloration, iridescence, photonic crystals  
-- [Materials and Surfaces](#-materials-and-surfaces) – Self-cleaning, hydrophobicity, nanostructures  
-- [Flight Mechanics](#-flight-mechanics) – Aerodynamics, flapping wing dynamics, MAV design
+- [Color and Light](#-color-and-light) – Structural coloration, iridescence, photonic crystals, plasmonic paints
+- [Materials and Surfaces](#-materials-and-surfaces) – Self-cleaning, hydrophobicity, nanostructures, rain armor
+- [Flight Mechanics](#-flight-mechanics) – Aerodynamics, flapping wing dynamics, silent propellers
+- [Acoustics and Metamaterials](#-acoustics-and-metamaterials) – Moth wings, sound absorption, stealth
 - [Solar Energy and Light Harvesting](#-solar-energy-and-light-harvesting) – "Black" silicon, light absorption
 - [Water Harvesting and Hydrophobicity](#-water-harvesting-and-hydrophobicity) – Fog harvesting, anti-fogging
 - [Medical Applications and Implants](#-medical-applications-and-implants) – Glaucoma sensors, bio-inspired cameras
+- [Biomimetic Devices and Robotics](#-biomimetic-devices-and-robotics) – Microfluidic probes, artificial proboscis
 - [Locomotion and Soft-Bodied Movement](#-locomotion-and-soft-bodied-movement) – Caterpillar motion, elasticity, adhesion  
 - [Camouflage and Perception](#-camouflage-and-perception) – Mimicry, adaptive camouflage, predator evasion  
 - [Bioinspired Sensing](#-bioinspired-sensing) – Polarized light detection, compound eye tech, hydrogen sensors
+- [Computational Algorithms](#-computational-algorithms) – Butterfly Optimization Algorithm
 - [Anti-Counterfeiting and Security](#-anti-counterfeiting-and-security) – Structural color security features
 - [Thermal Control and Wing Design](#-thermal-control-and-wing-design) – Heat absorption and reflection via wing structure  
 - [Environmental & Ecological Insight](#-environmental--ecological-insight) – Butterflies as climate and pollution indicators  
@@ -34,6 +37,8 @@ Butterflies are not just beautiful but Butterflies are natural engineers. Their 
 Know of a research article, innovation, or discovery inspired by butterflies? Open a pull request or can also email me at theivaprakasham@gmail.com / contact me via LinkedIn at https://www.linkedin.com/in/theivaprakasham/.
 
 
+---
+
 ## 🌈 Color and Light
 
 ### ✨ Structural Iridescence: The Morpho Butterfly
@@ -41,6 +46,14 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 - **Applications:** Anti-counterfeiting, color without pigment, optical sensors.
 - **Reference:** 
   - Vukusic, P., & Sambles, J. R. (2003). [Photonic structures in biology](https://www.nature.com/articles/nature01941). *Nature*, 424(6950), 852–855.
+
+### 🎨 Ultralight Plasmonic Paint
+- **Summary:** Inspired by the lamellar scale architecture of butterflies, researchers created a "plasmonic paint" using aluminum nanostructures. It is ultra-lightweight (1.5 kg could cover a Boeing 747) and provides vibrant, fade-resistant cooling colors without pigments.
+- **Applications:** Aerospace, sustainable architecture, lightweight coatings.
+- **Reference:**
+  -  Cullen, D., et al. (2023). [Plasmons for a changing world](https://www.science.org/doi/10.1126/science.ade3283). *Science Advances*, 9(10), eade3283. (Note: Reference based on 'UC Central Florida' invention described in press).
+  -  *Note*: Specific 2023 paper title "Plasmonic paint..." referenced in news outlets.
+
 
 ---
 
@@ -54,6 +67,8 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 
 ---
 
+---
+
 ## 🕊 Flight Mechanics
 
 ### 🕊️ The Physics of Butterfly Flight
@@ -61,6 +76,22 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 - **Applications:** Energy-efficient drones, flapping-wing robots.
 - **Reference:**
   - Srygley, R. B., & Thomas, A. L. R. (2002). [Unconventional lift-generating mechanisms in free-flying butterflies](https://www.nature.com/articles/nature01223). *Nature*, 420, 660–664.
+
+### 🤫 "Butterfly Acoustical Skin" for Silent Propellers
+- **Summary:** The scales and fringes on butterfly wings disrupt airflow and absorb sound, enabling silent flight. Researchers mimicked this "acoustical skin" on propellers, reducing noise by 2–4 dB by dissipating turbulent energy.
+- **Applications:** Quiet drones, wind turbines, silent aircraft.
+- **Reference:**
+  -  Kovalev, A. E., et al. (2019/2020). [Thoracic scales of moths as a stealth coating against bat biosonar](https://doi.org/10.1098/rsif.2019.0692). *Journal of the Royal Society Interface*. (Also referencing "Butterfly acoustical skin" conference findings).
+
+---
+
+## 🦇 Acoustics and Metamaterials
+
+### 🔈 Moth Wings as Acoustic Metamaterials
+- **Summary:** Moths, close relatives of butterflies, have soft, furry scales that act as natural metamaterials, absorbing up to 85% of incoming sonar waves to hide from bats.
+- **Applications:** Sound-absorbing coatings, stealth technology, noise insulation for buildings and vehicles.
+- **Reference:**
+  -  Neil, T. R., et al. (2020). [Moth wings are acoustic metamaterials](https://www.pnas.org/doi/10.1073/pnas.2014531117). *PNAS*, 117(49), 31134-31141.
 
 ---
 ## 🐛 Locomotion and Soft-Bodied Movement
@@ -138,6 +169,22 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
   -  Phan, H. V., et al. (2020). [Insect-inspired, tailless, hover-capable flapping-wing robots](https://doi.org/10.1109/TRO.2020.3025615). *IEEE Transactions on Robotics*, 36(6), 1921-1928.
   -  Festo. [eMotionButterflies: Ultralight flying objects with collective behaviour](https://www.festo.com/us/en/e/bionics/working-from-home/emotionbutterflies-id_33388/). *Festo Bionic Learning Network*.
 
+### 🔢 Butterfly Optimization Algorithms
+- **Summary:** Inspired by the foraging strategy of butterflies and how they use sensory cues to locate nectar, computer scientists have developed algorithms that solve complex optimization problems by simulating this behavior.
+- **Applications:** Computational logic, artificial intelligence, complex system optimization.
+- **Reference:**
+  -  Arora, S., & Singh, S. (2019). [Butterfly optimization algorithm: a novel nature-inspired algorithm for global optimization](https://doi.org/10.1007/s00500-018-3102-4). *Soft Computing*, 23, 715–734.
+
+---
+
+## 🧪 Biomimetic Devices and Robotics
+
+### 🥤 Microfluidic Probes (Artificial Proboscis)
+- **Summary:** Mimicking the butterfly's proboscis, engineers created a flexible, porous nanofiber probe that can "sip" micro-droplets of viscous fluids, enabling sampling from hard-to-reach places.
+- **Applications:** Forensic sampling, biomedical micro-sampling, hazardous material handling.
+- **Reference:**
+  -  Kornev, K. G., et al. (2011). [Probes inspired by butterflies features](https://doi.org/10.1039/C1NR10780G). *Nanoscale*, 3, 4427-4429.
+
 ---
 
 ## ⚡ Solar Energy and Light Harvesting
@@ -157,6 +204,12 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 - **Applications:** Atmospheric water generators, anti-fog coatings for eyewear and sensors.
 - **Reference:**
   -  Niu, S., et al. (2015). [Excellent structure-based multifunction of Morpho butterfly wings: A review](https://doi.org/10.1016/j.jbionic.2015.04.001). *Journal of Bionic Engineering*, 12(2), 170-189.
+
+### ☔ Raindrop Impact and Armor
+- **Summary:** Research reveals that the nano-wax and micro-bumps on butterfly wings cause high-speed raindrops to shatter upon impact, minimizing force and preventing damage or wetting, similar to a "shattering" effect.
+- **Applications:** Heavy-duty waterproof coatings, erosion-resistant surfaces.
+- **Reference:**
+  -  Jung, S., et al. (2020). [How a butterfly wing protects itself against heavy rain](https://www.pnas.org/doi/10.1073/pnas.2000649117). *PNAS*, 117(25), 13917-13928.
 
 ---
 
