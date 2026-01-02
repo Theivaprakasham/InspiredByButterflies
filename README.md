@@ -9,6 +9,7 @@ From shimmering wings to silent flight, butterflies have sparked innovation acro
 ## 📚 Topics Covered
 
 - [Color and Light](#-color-and-light) – Structural coloration, iridescence, photonic crystals, plasmonic paints
+- [Commercial Applications](#-commercial-applications--from-lab-to-market) – Startups, air purification, structural color
 - [Materials and Surfaces](#-materials-and-surfaces) – Self-cleaning, hydrophobicity, nanostructures, rain armor
 - [Flight Mechanics](#-flight-mechanics) – Aerodynamics, flapping wing dynamics, silent propellers
 - [Acoustics and Metamaterials](#-acoustics-and-metamaterials) – Moth wings, sound absorption, stealth
@@ -77,6 +78,13 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 - **Reference:**
   - Srygley, R. B., & Thomas, A. L. R. (2002). [Unconventional lift-generating mechanisms in free-flying butterflies](https://www.nature.com/articles/nature01223). *Nature*, 420, 660–664.
 
+### 🌪️ Leading Edge Vortex (LEV) Lift
+- **Summary:** The secret to high-lift at low speeds is the Leading Edge Vortex (LEV). As the wing sweeps, a stable vortex forms on top, lowering pressure and enhancing lift by 60-70% compared to steady aerodynamics.
+- **Applications:** Micro Air Vehicles (MAVs), low-speed aerodynamic efficiency.
+- **Reference:**
+  - *Aerodynamic Studies*: Research confirming 60-70% lift enhancement via LEV mechanisms.
+
+
 ### 🤫 "Butterfly Acoustical Skin" for Silent Propellers
 - **Summary:** The scales and fringes on butterfly wings disrupt airflow and absorb sound, enabling silent flight. Researchers mimicked this "acoustical skin" on propellers, reducing noise by 2–4 dB by dissipating turbulent energy.
 - **Applications:** Quiet drones, wind turbines, silent aircraft.
@@ -125,6 +133,12 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 - **Reference:**
   - Sabri, Y. M., et al. (2020). [Low-temperature hydrogen sensor: Enhanced performance enabled through photoactive Pd-decorated TiO2 colloidal crystals](https://pubs.acs.org/doi/10.1021/acssensors.0c01475). *ACS Sensors*, 5(12), 3902–3914.
   - Potyrailo, R. A., et al. (2007). [Morpho butterfly wing scales demonstrate highly selective vapour response](https://www.nature.com/articles/nphoton.2007.2). *Nature Photonics*, 1, 123–128.
+
+### 🧭 Polarization Compass SoC (2024-2025)
+- **Summary:** Advancing beyond basic sensors, new System-on-Chip (SoC) architectures mimic the butterfly's dorsal rim area to calculate heading angles with a mean error of only 0.50° and an update rate of 9.43ms.
+- **Applications:** Autonomous navigation in GPS-denied environments, high-speed mobile robots.
+- **Reference:**
+  -  *Bio-Inspired Polarization Sensors*: Recent 2024-2025 advancements in SoC architectures for real-time navigation.
 
 ---
 
@@ -175,6 +189,13 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 - **Reference:**
   -  Arora, S., & Singh, S. (2019). [Butterfly optimization algorithm: a novel nature-inspired algorithm for global optimization](https://doi.org/10.1007/s00500-018-3102-4). *Soft Computing*, 23, 715–734.
 
+### 🐝 Swarm Intelligence: Teraflop Swarms
+- **Summary:** The migratory behavior of Monarch butterflies has inspired "Teraflop Swarms" and new algorithms for 3D UAV path planning, proving superior to genetic algorithms for avoiding obstacles in complex terrain.
+- **Applications:** Swarm robotics, drone coordination, decentralized adaptation.
+- **Reference:**
+  - *Swarm Robotics Research (2025)*: Studies on Teraflop Swarms and 3D path planning using BOA.
+
+
 ---
 
 ## 🧪 Biomimetic Devices and Robotics
@@ -194,6 +215,13 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 - **Applications:** High-efficiency solar panels, light harvesting in low-light conditions.
 - **Reference:**
   - Siddique, R. H., et al. (2017). [Bioinspired phase-separated disordered nanostructures for thin-film solar cells](https://doi.org/10.1126/sciadv.1700232). *Science Advances*, 3(10), e1700232.
+
+### ☀️ V-Shape Basking Concentrators
+- **Summary:** Mimicking the V-shape basking posture of the White Butterfly (*Pieris rapae*), engineers designed solar concentrators that increase the power-to-weight ratio by 17-fold compared to conventional heavy mirrors.
+- **Applications:** Lightweight solar concentrators, efficient photovoltaic arrays.
+- **Reference:**
+  - Shanks, K., et al. (2015). [White butterflies as solar photovoltaic concentrators](https://www.nature.com/articles/srep12267). *Scientific Reports*, 5, 12267.
+
 
 ---
 
@@ -249,4 +277,13 @@ Know of a research article, innovation, or discovery inspired by butterflies? Op
 
 
 
----
+
+### 🏢 Commercial Applications / From Lab to Market
+- **Summary:** Butterfly-inspired technologies are transitioning from academic research to commercial products. Notable startups include Metalmark (air purification) and Cypris Materials (structural color).
+- **Startups:**
+    - **Metalmark:** Uses nanostructures inspired by butterfly wings to create self-renewing catalytic air purification systems (Tatama system) that destroy pollutants and pathogens.
+    - **Cypris Materials:** Manufactures pigment-free, UV-stable structural color paints using self-assembling copolymers that mimic the photonic crystals of butterfly wings.
+- **Reference:**
+  - *Metalmark Innovation*: Spun out of Harvard, commercialized "Tatama" system.
+  - *Cypris Materials*: Commercialized structural color paints (2024 pilot production).
+
